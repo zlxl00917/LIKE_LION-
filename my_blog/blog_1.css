@@ -1,0 +1,55 @@
+.easy-box{ 
+    padding: 10px;
+    border: 1px solid black;
+    vertical-align: middle;}
+body {
+    background-color: #4C4C4C; }
+header{ height : 150px;
+    width: 100%;
+    background-color: rgba(255,255,255,0.05);
+    color: rgb(243, 132, 28);
+    font-size:80px;
+    font-family: Helvetica;
+    letter-spacing: 0.02em;
+    font-weight: 700;
+    line-height:1.5;    
+    text-align: left;
+    position: fixed;}
+
+#aboutme { 
+    padding-top: 200px;}
+
+#aboutme p{text-align:left;
+    height: fit-content;
+    width: fit-content;
+    clear: left;
+    padding-left: 100px;
+    letter-spacing: 0.45em;
+    font: size 23px;}
+
+h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align:center;
+    color: rgb(243, 132, 28);
+    font-weight: bold;
+    font-size :25px;
+    line-height:1.5;}
+
+#insta{text-align: center;
+    color: rgb(243, 132, 28);}
+
+span{font-size:50px;
+    font-weight: 400px;}
+
+.detail{text-align: center;}
+
+h3{color:beige;
+    font-family:"Courier New";
+    font-size: small;
+    letter-spacing: 0.1em;
+}
+
+#insta{text-align: center;
+background-color:beige
+font-weight: bold;}

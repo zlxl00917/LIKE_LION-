@@ -1,0 +1,267 @@
+.allcontent{
+    width: 100%;
+    height:1255px ;
+    background-color: #fff;
+    display:flex;
+    flex-wrap:wrap;
+    flex-direction: column;
+    align-content:center;
+    justify-content: center;
+}
+
+.content1{
+    position: fixed;
+    top:0;
+    left: 13%;
+
+    width:935px;
+    height:50px;
+    display: flex;
+    align-items:center;
+    justify-content:space-around;
+    background-color: #fff;
+    border-style: solid;
+    border-width: 0.8px;
+    border-color:  #e2e2e2;
+
+}
+
+.logo{
+    width: 360px;
+    height: 36px;
+    display: flex;
+    align-items: center;
+
+}
+.instalogo{
+    display: block;
+    width: 103px;
+    height: 29px;
+}
+
+.searchbox{
+    width:215px;
+    height:28px;
+    background-color: #fafafa;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-style: solid;
+    border-width: 1px;
+    border-color:  #e2e2e2;
+    border-radius: 3px;
+}
+   
+.searchbox .material-icons {
+    font-size:15px;
+    color: #8e8e8e;
+}
+.search{
+    width: 40px;
+    height:18px; 
+    font-size: 13px;
+    color: #8e8e8e;
+}
+.icons_wrap{
+    width:360px;
+    height:29px;
+    display: flex;
+    justify-content:flex-end;
+}
+.icons{
+    width:215px;
+    height:22px;
+    display: flex;
+    justify-content: space-around;
+}
+.icons .material-icons{
+    font-size: 29px;
+}
+.content2{
+    width: 935px;
+    height:220px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #fafafa;
+}
+.round{
+    background-color: #fff;
+    width:250px;
+    height:150px;
+    display: flex;
+    align-items:center;
+    justify-content:center;
+}
+.content2 .round .material-icons{
+    font-size: 173px; 
+    color: #dbdbdb;
+    
+}
+.info_wrapper{
+    background-color: #fff;
+    width:290px;
+    height:150px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-content: space-between;
+}
+.info_1{
+    width:290px;
+    height:53px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-content: center;
+}
+.bgvngv{
+    width:90px;
+    height:40px;
+    font-family: apple-system, BlinkMacSystemFont;
+    font-size: 27px;
+    font-weight: lighter;
+}
+.edit{
+    width:93.85px;
+    height:30px;
+    border-radius: 4px;
+    border-width: 2px;
+    font-weight: bolder;
+    background-color: #fff;
+}
+.info_1 .material-icons{
+    font-size: 26px;
+}
+.info_1 .blank{
+    width:40px;
+    height:50px;
+}
+
+.info_2{
+    width:290px;
+    height:40px;
+    background-color: #fff;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-between;   
+}
+
+.postings{
+    width:90px;
+    height:21.33px;
+}
+.followers{
+    width:90px;
+    height:21.33px;
+}
+.follow{
+    width:90px;
+    height:21.33px;
+}
+.info_3{
+    width:290px;
+    height:40px;
+    background-color: #fff;
+    display:flex;
+    flex-wrap: wrap;
+
+}
+.blank{
+    background-color: #fff;
+    width:250px;
+    height:150px;
+
+}
+.content3{
+    width:935px;
+    height:53px;
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+.line1{
+    width:110px;
+    height:30px;
+    display: flex;
+    align-content:center;
+    justify-content:center;
+}
+.line1 .material-icons{
+   font-size: 15px;
+}
+.line1 .posted{
+    width:60px;
+    height:15px;
+    font-size: 12px;
+}
+.line2{
+    width:110px;
+    height:30px;
+    display:flex;
+    align-content:center;
+    justify-content:center;
+    color: #969696;
+}
+.line2 .material-icons{
+    font-size: 15px;
+   
+}
+.line2 .IGTV{
+    width:60px;
+    height:15px;
+    font-size: 12px;
+
+}
+.line3{
+    width:110px;
+    height:30px;
+    display:flex;
+    align-content:center;
+    justify-content:center;
+    color: #969696;
+}
+.line3 .material-icons{
+    font-size: 15px;
+   
+}
+.line3 .saved{
+    width:60px;
+    height:15px;
+    font-size: 12px;
+}
+.line4{
+    width:110px;
+    height:30px;
+    display:flex;
+    align-content:center;
+    justify-content:center;
+    color: #969696;
+}
+.line4 .material-icons{
+    font-size: 15px;
+}
+.line4 .tagged{
+    width:60px;
+    height:15px;
+    font-size: 12px;
+}
+.content4{
+    width:935px;
+    height:935px;
+    display: flex;
+    flex-wrap: wrap;
+    align-content:space-between;
+    justify-content:space-between;
+}
+.box{
+    width:293px;
+    height:293px;
+    background-color:rgb(255, 255, 255);
+    }   
+.box img{
+    width: 100%;
+    height: 100%;
+    background-size: contain;
+}
